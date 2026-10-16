@@ -1,19 +1,13 @@
-# Project Python startup entry point.
-#
-# Unreal automatically executes Content/Python/init_unreal.py when the
-# Python Editor Script Plugin starts.
+"""Unreal startup entry point; copy to <Project>/Content/Python/init_unreal.py."""
 
 try:
-    import CodeXAI.editor_menu
-
-    CodeXAI.editor_menu.register()
-
+    from UE5_BP_Exporter import editor_menu
+    editor_menu.register()
 except Exception:
     import traceback
     import unreal
-
     unreal.log_error(
-        "[CodeXAI] Failed to register editor menu.\n{}".format(
+        "[UE5_BP_Exporter] Unable to register Tools menu.\n{}".format(
             traceback.format_exc()
         )
     )

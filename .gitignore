@@ -1,0 +1,7 @@
+# Python/IDE-generated files (existing tracked copies need a one-time git rm --cached)
+__pycache__/
+*.py[cod]
+.vs/
+*.vsidx
+*.suo
+*.sqlite
