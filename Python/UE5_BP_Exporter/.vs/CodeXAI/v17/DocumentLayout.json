@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olivi\\Documents\\Unreal Projects\\FOTCodeX\\Content\\Python\\CodeXAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olivi\\Documents\\Unreal Projects\\FOTCodeX\\Content\\Python\\CodeXAI\\export_context.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:export_context.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olivi\\Documents\\Unreal Projects\\FOTCodeX\\Content\\Python\\CodeXAI\\graphs\\t3d_parser.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:graphs\\t3d_parser.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olivi\\Documents\\Unreal Projects\\FOTCodeX\\Content\\Python\\CodeXAI\\graphs\\raw_exporter.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:graphs\\raw_exporter.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olivi\\Documents\\Unreal Projects\\FOTCodeX\\Content\\Python\\CodeXAI\\metadata_exporter.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:metadata_exporter.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "export_context.py",
+              "DocumentMoniker": "C:\\Users\\olivi\\Documents\\Unreal Projects\\FOTCodeX\\Content\\Python\\CodeXAI\\export_context.py",
+              "RelativeDocumentMoniker": "export_context.py",
+              "ToolTip": "C:\\Users\\olivi\\Documents\\Unreal Projects\\FOTCodeX\\Content\\Python\\CodeXAI\\export_context.py",
+              "RelativeToolTip": "export_context.py",
+              "ViewState": "AgIAADACAAAAAAAAAAAAAO4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-20T20:23:51.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "t3d_parser.py",
+              "DocumentMoniker": "C:\\Users\\olivi\\Documents\\Unreal Projects\\FOTCodeX\\Content\\Python\\CodeXAI\\graphs\\t3d_parser.py",
+              "RelativeDocumentMoniker": "graphs\\t3d_parser.py",
+              "ToolTip": "C:\\Users\\olivi\\Documents\\Unreal Projects\\FOTCodeX\\Content\\Python\\CodeXAI\\graphs\\t3d_parser.py",
+              "RelativeToolTip": "graphs\\t3d_parser.py",
+              "ViewState": "AgIAAJsFAAAAAAAAAAAQwLIFAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-20T20:08:14.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "raw_exporter.py",
+              "DocumentMoniker": "C:\\Users\\olivi\\Documents\\Unreal Projects\\FOTCodeX\\Content\\Python\\CodeXAI\\graphs\\raw_exporter.py",
+              "RelativeDocumentMoniker": "graphs\\raw_exporter.py",
+              "ToolTip": "C:\\Users\\olivi\\Documents\\Unreal Projects\\FOTCodeX\\Content\\Python\\CodeXAI\\graphs\\raw_exporter.py",
+              "RelativeToolTip": "graphs\\raw_exporter.py",
+              "ViewState": "AgIAANMAAAAAAAAAAAAlwOUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-20T20:07:22.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "metadata_exporter.py",
+              "DocumentMoniker": "C:\\Users\\olivi\\Documents\\Unreal Projects\\FOTCodeX\\Content\\Python\\CodeXAI\\metadata_exporter.py",
+              "RelativeDocumentMoniker": "metadata_exporter.py",
+              "ToolTip": "C:\\Users\\olivi\\Documents\\Unreal Projects\\FOTCodeX\\Content\\Python\\CodeXAI\\metadata_exporter.py",
+              "RelativeToolTip": "metadata_exporter.py",
+              "ViewState": "AgIAAJsBAAAAAAAAAAAQwLUBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-20T19:22:22.743Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
