@@ -11,6 +11,7 @@ from CodeXAI import io_utils
 from CodeXAI import metadata_exporter
 from CodeXAI.graphs import graph_exporter
 from CodeXAI.structural import structural_exporter
+from CodeXAI import widget_exporter
 
 
 # ============================================================================
@@ -358,6 +359,21 @@ def run():
         )
     )
 
+    #
+========================================================================
+    # Stage 5 - Widget Blueprint Designer
+    #
+========================================================================
+
+    unreal.log(
+        "[CodeXAI] Stage 5/5 - Widget Designer"
+    )
+
+    widget_summary = widget_exporter.export_widget_source(
+        discovery_result
+    )
+
+
     # ========================================================================
     # Final manifest
     # ========================================================================
@@ -391,6 +407,8 @@ def run():
         "graph_export": graph_summary,
 
         "structural_export": structural_summary,
+
+        "widget_export": widget_summary,
     }
 
     export_manifest_path = os.path.join(
